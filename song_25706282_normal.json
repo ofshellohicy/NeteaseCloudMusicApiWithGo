@@ -1,0 +1,66 @@
+{
+    "cf": "",
+    "pop": 100,
+    "cd": "1",
+    "s_id": 0,
+    "single": 0,
+    "ar": [{
+        "alias": [],
+        "id": 12977,
+        "tns": [],
+        "name": "\u9003\u8dd1\u8ba1\u5212"
+    }],
+    "cp": 22036,
+    "id": 25706282,
+    "rt": "600902000009535440",
+    "fee": 8,
+    "copyright": 1,
+    "no": 7,
+    "rtUrl": null,
+    "mst": 9,
+    "mark": 0,
+    "rtUrls": [],
+    "ftype": 0,
+    "rurl": null,
+    "publishTime": 1325347200007,
+    "v": 121,
+    "al": {
+        "name": "\u4e16\u754c",
+        "tns": [],
+        "pic_str": "19193074974743620",
+        "pic": 19193074974743620,
+        "picUrl": "https://p4.music.126.net/d541jx7SqoDzVkenhmtg6g==/19193074974743620.jpg",
+        "id": 2285010
+    },
+    "crbt": null,
+    "dt": 252000,
+    "pst": 0,
+    "a": null,
+    "noCopyrightRcmd": null,
+    "name": "\u591c\u7a7a\u4e2d\u6700\u4eae\u7684\u661f",
+    "rtype": 0,
+    "h": {
+        "vd": -3700,
+        "fid": 0,
+        "br": 320000,
+        "size": 10091667
+    },
+    "m": {
+        "vd": -1200,
+        "fid": 0,
+        "br": 192000,
+        "size": 6055017
+    },
+    "l": {
+        "vd": -2,
+        "fid": 0,
+        "br": 128000,
+        "size": 4036692
+    },
+    "st": 0,
+    "djId": 0,
+    "mv": 382555,
+    "t": 0,
+    "alia": [],
+    "originCoverType": 0
+}

@@ -1,8 +1,9 @@
 package api
 
 import (
-	"github.com/gin-gonic/gin"
 	"singo/service"
+
+	"github.com/gin-gonic/gin"
 )
 
 // 搜索

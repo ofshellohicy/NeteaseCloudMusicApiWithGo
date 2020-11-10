@@ -1,0 +1,26 @@
+{
+    u 'toast': False, u 'dl': 0, u 'cp': 1, u 'subp': 1, u 'playMaxbr': 999000, u 'sp': 7, u 'preSell': False, u 'id': 167637, u 'payed': 0, u 'flag': 256, u 'fee': 8, u 'chargeInfoList': [{
+        u 'rate': 128000,
+        u 'chargeMessage': None,
+        u 'chargeUrl': None,
+        u 'chargeType': 0
+    }, {
+        u 'rate': 192000,
+        u 'chargeMessage': None,
+        u 'chargeUrl': None,
+        u 'chargeType': 1
+    }, {
+        u 'rate': 320000,
+        u 'chargeMessage': None,
+        u 'chargeUrl': None,
+        u 'chargeType': 1
+    }, {
+        u 'rate': 999000,
+        u 'chargeMessage': None,
+        u 'chargeUrl': None,
+        u 'chargeType': 1
+    }], u 'st': 0, u 'cs': False, u 'downloadMaxbr': 999000, u 'fl': 128000, u 'freeTrialPrivilege': {
+        u 'resConsumable': False,
+        u 'userConsumable': False
+    }, u 'pl': 128000, u 'maxbr': 999000
+}
